@@ -6,9 +6,7 @@ Identifying the handwritten digits using classification algorithms and also impl
 
 The dataset is of 0-9 digits converted from image to input features, every row represents a specific digit image along with labels for every row. We can view the image using Matplotlib. Every digit is represented as 28x28 pixels, giving 784 features to work with.
 
-#### Data Set Drive Link
-
-https://drive.google.com/drive/folders/1ibzHff2uS4hUbTHI1fxihaDscA028aWm?usp=sharing
+#### [Data Set](https://drive.google.com/drive/folders/1ibzHff2uS4hUbTHI1fxihaDscA028aWm?usp=sharing)
 
 #### AIM
 

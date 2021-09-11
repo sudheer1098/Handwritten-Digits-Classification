@@ -27,13 +27,13 @@ To apply classification algorithms and recognise the digit using the pixel inten
 
 #### ACCURACY
 
-Logistic Regression : 92.11
-SVM Classifier Linear : 94.0
-SVM Classifier RBF : 96.92
-K Nearest Neighbors : 93.90
-Decision Tree Classifier : 83.75
-Random Forest Classifier : 95.21
-GridSearchCV model : 97.18
+- Logistic Regression : 92.11
+- SVM Classifier Linear : 94.0
+- SVM Classifier RBF : 96.92
+- K Nearest Neighbors : 93.90
+- Decision Tree Classifier : 83.75
+- Random Forest Classifier : 95.21
+- GridSearchCV model : 97.18
 
 #### CONCLUSION
 

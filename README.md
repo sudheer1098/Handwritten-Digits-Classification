@@ -8,7 +8,7 @@ The dataset is of 0-9 digits converted from image to input features, every row r
 
 #### [Data Set](https://drive.google.com/drive/folders/1ibzHff2uS4hUbTHI1fxihaDscA028aWm?usp=sharing)
 
-#### AIM
+#### OBJECTIVE
 
 To apply classification algorithms and recognise the digit using the pixel intensities of the handwritten image as features.
 
